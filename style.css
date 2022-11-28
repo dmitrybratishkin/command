@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    font-size: 20px;
+}
+
+.one {
+    text-align: center;
+    font-size: 35px;
+}
+.one1 {
+    text-align: center;
+    font-size: 25px;
+    color: brown;
+}
+.one2 {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(250, 197, 28); --darkreader-inline-color:#faca2e;
+}
